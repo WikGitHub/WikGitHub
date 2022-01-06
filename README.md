@@ -41,7 +41,6 @@
 <br />
 <br />
 <br />
-<br />
 
 ### Connect with me:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" /> [LinkedIn]
