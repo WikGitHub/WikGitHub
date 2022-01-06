@@ -13,7 +13,11 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" />
+
+<img align="left" alt="PyCharm" width="26px" src="https://external-preview.redd.it/68RuLLrsBdxbVJLxm3py3YoK6zX0aPIv3qttEhkb0_4.jpg?auto=webp&s=e2c12b1dc5be819f2f076f46454912a3c4bc3f2d/>
+
+<img align="left" alt="Python" width="26px" src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python-logo-notext.svg>
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -23,9 +27,9 @@
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" />
 
 
 <br />
