@@ -1,13 +1,13 @@
 ### Hi! I'm Wiktoria 🪐
 
-## I'm a current MS CompSci student at University of Bath
+## I'm a current MS CompSci student at the University of Bath
 - ⭐️ Alongside uni assignments, I’m currently working on Python and JS/HTML/CSS projects.
 - 👽 I’m looking to collaborate with other developers.
 - 🌌 Goal for 2022: Have an active and consistant GitHub profile.
 - 🌋 Fun fact: I'm an avid gamer!
 
 ### Connect with me:
-<img align="left" alt="WikGitHub | LinkedIn" width="22px" src="https://www.linkedin.com/in/wiktoriakasprzak/" /> [linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/wiktoriakasprzak/]
 
 <br />
 
