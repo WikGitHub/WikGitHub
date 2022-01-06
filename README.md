@@ -28,7 +28,6 @@
 
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 
-
 <br />
 
 ### At University I covered:
@@ -43,6 +42,5 @@
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" /> [LinkedIn]
 
 <br />
----
 
 [LinkedIn]: https://www.linkedin.com/in/wiktoriakasprzak/
