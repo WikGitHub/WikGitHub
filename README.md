@@ -29,6 +29,8 @@
 <img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" />
 
 <br />
+<br />
+<br />
 
 ### At University I covered:
 
@@ -36,6 +38,8 @@
 
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
 
+<br />
+<br />
 <br />
 <br />
 
