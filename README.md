@@ -6,9 +6,6 @@
 - 🌌 Goal for 2022: Have an active and consistant GitHub profile.
 - 🌋 Fun fact: I'm an avid gamer!
 
-### Connect with me:
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" /> [LinkedIn]
-
 <br />
 
 ### Preferred languages and Tools:
