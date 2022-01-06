@@ -32,3 +32,5 @@
 <br />
 
 ---
+
+[LinkedIn]: https://www.linkedin.com/in/wiktoriakasprzak/
