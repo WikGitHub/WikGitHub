@@ -25,13 +25,15 @@
 <br />
 <br />
 
-### At University I covered:
+### At University I also covered:
 
 <img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/35/The_C_Programming_Language_logo.svg" />
 
 <img align="left" alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" />
+
+<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg"/>
 
 <br />
 <br />
