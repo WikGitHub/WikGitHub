@@ -1,6 +1,6 @@
 ## Hi! I'm Wiktoria 🪐
 
-### I'm a current MS CompSci student at the University of Bath
+### I'm a current MSc CompSci student at the University of Bath
 - ⭐️ Alongside University assignments, I’m currently working on Python and JS/HTML/CSS projects.
 - 👽 I’m looking to collaborate with other developers.
 - 🌌 Goal for 2022: Have an active and consistant GitHub profile.
