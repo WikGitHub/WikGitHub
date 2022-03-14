@@ -1,9 +1,9 @@
 ## Hi! I'm Wiktoria 🪐
 
 ### I'm a current MSc CompSci student at the University of Bath
-- ⭐️ Alongside University assignments, I’m currently working on Python and JS/HTML/CSS projects.
-- 👽 I’m looking to collaborate with other developers.
-- 🌌 Goal for 2022: Have an active and consistant GitHub profile.
+- ⭐️ Alongside University assignments, I’m currently working on more advanced Python projects
+- 👽 I’m looking to collaborate with other developers
+- 🌌 Goal for 2022: Have an active and consistant GitHub profile. I also want to learn C++
 - 🌋 Fun fact: I'm an avid gamer!
 
 <img align="right" alt="image of laptop" width="260px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
