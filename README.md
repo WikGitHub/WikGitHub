@@ -8,7 +8,7 @@
 
 <img align="right" alt="image of laptop" width="260px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
 
-<br />
+<br /> 
 
 ### Preferred languages and Tools:
 
