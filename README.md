@@ -1,7 +1,7 @@
 ## Hi! I'm Wiktoria 🪐
 
 ### I'm a current MSc CompSci student at the University of Bath
-- ⭐️ Alongside University assignments, I’m currently working on more advanced Python projects
+- ⭐️ Alongside University assignments, I’m currently working on more advanced Python projects (in AI and RL)
 - 👽 My masters project focus is on computer vision in the context of drug discovery
 - 🌌 Goal for 2022: Have an active and consistant GitHub profile
 - 🌋 Fun fact: I'm an avid gamer!
