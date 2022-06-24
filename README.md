@@ -1,9 +1,9 @@
 ## Hi! I'm Wiktoria 🪐
 
-### I'm a current MSc CompSci student at the University of Bath
-- ⭐️ Alongside University assignments, I’m currently working on more advanced Python projects (in AI and RL)
-- 👽 My masters project focus is on computer vision in the context of drug discovery
-- 🌌 Goal for 2022: Have an active and consistant GitHub profile
+### I'm a current MSc CompSci student at the University of Bath and academy SWE at Made Tech
+- ⭐️ Alongside my Masters, I’m currently working on more advanced Python projects (in AI - Reinforcement Learning and Machine Learning)
+- 👽 My Masters project focus is on Computer Vision in the context of drug discovery (Machine Learning)
+- 🌌 Goal for 2022: Have an active GitHub profile
 - 🌋 Fun fact: I'm an avid gamer!
 
 <img align="right" alt="image of laptop" width="260px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
