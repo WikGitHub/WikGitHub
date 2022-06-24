@@ -1,6 +1,6 @@
 ## Hi! I'm Wiktoria 🪐
 
-### I'm a current MSc CompSci student at the University of Bath and academy SWE at Made Tech
+### I'm a current MSc CompSci student at the University of Bath and Academy SWE at Made Tech
 - ⭐️ Alongside my Masters, I’m currently working on more advanced Python projects (in AI - Reinforcement Learning and Machine Learning)
 - 👽 My Masters project focus is on Computer Vision in the context of drug discovery (Machine Learning)
 - 🌌 Goal for 2022: Have an active GitHub profile
