@@ -16,6 +16,8 @@
 
 <img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 
+<img align="left" alt="TensorFlow" width="56px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" />
+
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 
@@ -38,8 +40,6 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <img align="left" alt="Ruby" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" />
 
