@@ -9,9 +9,10 @@
 - 🌌 Goal for 2022: Have an active GitHub profile
 - 🌋 Fun fact: I'm an avid gamer!
 
-<img align="right" alt="image of laptop" width="260px" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" />
+<img align="right" alt="image of laptop" width="260px" src="https://user-images.githubusercontent.com/94233121/188244206-b23fee75-50cf-476d-b636-f87d9f87f045.gif" />
 
-<br /> 
+<br />
+
 
 ### Preferred languages and Tools:
 
