@@ -1,4 +1,7 @@
-## Hi! I'm Wiktoria 🪐
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/94233121/188243473-c1a93573-8a01-4ad6-a359-e3bd497e74e2.gif" />
+</p>
+
 
 ### I'm a current MSc CompSci student at the University of Bath and Academy SWE at Made Tech
 - ⭐️ Alongside my Masters, I’m currently working on more advanced Python projects (in AI - Reinforcement Learning and Machine Learning)
@@ -47,7 +50,7 @@
 <br />
 <br />
 
-### Connect with me:
+### Reach me:
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" /> [LinkedIn]
 
 <br />
