@@ -3,11 +3,12 @@
 </p>
 
 
-♡ Current MSc Computer Science student at the University of Bath
-
-♡ Upcoming data scientist at a geospatial intelligence company
-
-♡ My Masters project focus is on Computer Vision (Machine Learning) in the context of drug discovery
+* Current MSc Computer Science student at the University of Bath
+* Upcoming Data Scientist at a geospatial intelligence company
+* My Masters project focus is on Computer Vision (Machine Learning) in the context of drug discovery
+* Future Goals:
+  * Learn C++
+  * Gain a strong statistical understanding
 
 
 ### Preferred Languages
@@ -21,7 +22,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
 
 ### OS
 ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
@@ -39,9 +39,9 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-
 ### Reach me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktoriakasprzak/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wxixcxixa/)
 
 ### Gaming / interests
 ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
