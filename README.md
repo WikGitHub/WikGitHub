@@ -2,13 +2,9 @@
   <img src="https://user-images.githubusercontent.com/94233121/188243473-c1a93573-8a01-4ad6-a359-e3bd497e74e2.gif" />
 </p>
 
-
-* Current MSc Computer Science student at the University of Bath
-* Upcoming Data Scientist at a geospatial intelligence company
-* My Masters project focus is on Computer Vision (Machine Learning) in the context of drug discovery
-* Future Goals:
-  * Learn C++
-  * Gain a strong statistical understanding
+* Data Scientist at a geospatial intelligence company 
+* MSc Computer Science from the University of Bath
+* My Masters project focus was on Computer Vision (Machine Learning) in the context of drug discovery
 
 
 ### Preferred Languages
