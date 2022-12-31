@@ -3,7 +3,7 @@
 </p>
 
 * Data Scientist at a geospatial intelligence company 
-* MSc Computer Science from the University of Bath
+* MSc Computer Science (distinction) from the University of Bath
 * My Masters project focus was on Computer Vision (Machine Learning) in the context of drug discovery
 
 
