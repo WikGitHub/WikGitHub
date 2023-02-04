@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/94233121/188243473-c1a93573-8a01-4ad6-a359-e3bd497e74e2.gif" />
 </p>
 
-* software / machine learning engineer at a geospatial intelligence company (start up)
+* Software / machine learning engineer at a geospatial intelligence company (start up)
 * MSc Computer Science (distinction) from the University of Bath
 * My Masters project focus was on Computer Vision (Machine Learning) in the context of drug discovery
 
