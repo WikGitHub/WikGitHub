@@ -5,6 +5,7 @@
 * Software / machine learning engineer at a geospatial intelligence company (start up)
 * MSc Computer Science (distinction) from the University of Bath
 * My Masters project focus was on Computer Vision (Machine Learning) in the context of drug discovery
+* If you click on 'stars' at the top of this profile and look under 'lists', you will see a better organisation of my repos
 
 
 ### Preferred Languages
