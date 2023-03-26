@@ -13,8 +13,8 @@
 
 ## Programming/Query Languages 
 * Python
-* SQL
-* PostgrSQL
+* PostgreSQL
+* Some professional experience in JavaScript, HTML and CSS
 * Hopefully C++ in the near future
 
 ## Often used tools
