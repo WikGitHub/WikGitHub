@@ -2,41 +2,33 @@
   <img src="https://user-images.githubusercontent.com/94233121/188243473-c1a93573-8a01-4ad6-a359-e3bd497e74e2.gif" />
 </p>
 
+## Hi there! 👋
+
+## About me
 * Software and Machine Learning engineer
 * Employed at a fast-paced geospatial intelligence startup
 * Holds a Master of Science degree in Computer Science from the University of Bath, with distinction
 * Specialised in Computer Vision and Machine Learning during my Master's project, with a focus on drug discovery
 * Organised GitHub profile with repositories arranged under "stars" and "lists" for easy navigation and project exploration.
 
+## Programming/Query Languages 
+* Python
+* SQL
+* PostgrSQL
+* Hopefully C++ in the near future
 
-### Preferred Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+## Often used tools
+* PyTorch
+* Tensorflow
+* Scikit-learn
+* NumPy
+* Pandas
 
-### Tools
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+## Gaming
+* PSN
+* Steam
 
-### OS
-![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![Mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+## Contact
+Feel free to reach out to me at kasprzak_w@yahoo.com or connect with me on [LinkedIn](https://www.linkedin.com/in/wiktoriakasprzak/) or [Instagram](https://www.instagram.com/wxixcxixa/)
 
-### Reach me
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wiktoriakasprzak/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wxixcxixa/)
-
-### Gaming
-![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-
-
-
-
-
-
-
-
-
+I'm always looking for opportunities to collaborate, so if you have a project in mind, feel free to get in touch. Thank you for stopping by!
