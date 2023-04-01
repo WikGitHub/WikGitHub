@@ -5,7 +5,7 @@
 ## Welcome to my GitHub profile!
 
 ## About me
-* Software and Machine Learning engineer
+* Data Scientist; Software and Machine Learning Engineering
 * Employed at a fast-paced geospatial intelligence startup
 * Holds a Master of Science degree in Computer Science from the University of Bath, with distinction
 * Specialised in Computer Vision and Machine Learning during my Master's project, with a focus on drug discovery
