@@ -5,9 +5,9 @@
 ## Welcome to my GitHub profile!
 
 ## About me
-* Data Scientist; Software and Machine Learning Engineering
-* Employed at a fast-paced geospatial intelligence startup
-* Holds a Master of Science degree in Computer Science from the University of Bath, with distinction
+* Data Scientist
+* Employed at a geospatial intelligence startup
+* Hold a Master of Science degree in Computer Science from the University of Bath, with distinction
 * Specialised in Computer Vision and Machine Learning during my Master's project, with a focus on drug discovery
 * Organised GitHub profile with repositories arranged under "stars" and "lists" for easy navigation and project exploration.
 
@@ -16,13 +16,6 @@
 * PostgreSQL
 * Some professional experience in JavaScript, HTML and CSS
 * Hopefully C++ in the near future
-
-## Often used tools
-* PyTorch
-* Tensorflow
-* Scikit-learn
-* NumPy
-* Pandas
 
 ## Gaming
 * PSN
