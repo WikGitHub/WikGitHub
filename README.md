@@ -7,6 +7,10 @@
 ## About me
 * Data Scientist
 * Employed at a geospatial intelligence startup
+* Currently working on a few side projects:
+  * UniCodBas with @nv333
+  * Autoencoder which works on ECG data
+  * Raspberry Pi project
 * Hold a Master of Science degree in Computer Science from the University of Bath, with distinction
 * Specialised in Computer Vision and Machine Learning during my Master's project, with a focus on drug discovery
 * Organised GitHub profile with repositories arranged under "stars" and "lists" for easy navigation and project exploration.
