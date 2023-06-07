@@ -26,6 +26,6 @@
 * Steam
 
 ## Contact
-Feel free to reach out to me at kasprzak_w@yahoo.com or connect with me on [LinkedIn](https://www.linkedin.com/in/wiktoriakasprzak/) or [Instagram](https://www.instagram.com/wxixcxixa/)
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/wiktoriakasprzak/) or [Instagram](https://www.instagram.com/wxixcxixa/)
 
 I'm always looking for opportunities to collaborate, so if you have a project in mind, feel free to get in touch. Thank you for stopping by!
