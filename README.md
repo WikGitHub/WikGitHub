@@ -18,8 +18,7 @@
 ## Programming/Query Languages 
 * Python
 * PostgreSQL
-* Some professional experience in JavaScript, HTML and CSS
-* Hopefully C++ in the near future
+* Professional experience in JavaScript, HTML and CSS
 
 ## Gaming
 * PSN
