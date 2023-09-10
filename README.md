@@ -8,12 +8,12 @@
 * Data Scientist
 * Employed at a geospatial intelligence startup
 * Currently working on a few side projects:
+  * Vessel detection on satellite imagery
   * UniCodBas with @nv333
-  * Autoencoder to detect anomalies in data
-  * Machine Learning on a Raspberry Pi
+  * Machine Learning on a Raspberry Pi (Medium articles)
 * Hold a Master of Science degree in Computer Science from the University of Bath, with distinction
-* Specialised in Computer Vision and Machine Learning during my Master's project, with a focus on drug discovery
-* Organised GitHub profile with repositories arranged under "stars" and "lists" for easy navigation and project exploration.
+* Specialised in Computer Vision during my Master's project
+* Organised GitHub profile with repositories arranged under "stars" and "lists" for easy navigation and project exploration
 
 ## Programming/Query Languages 
 * Python
