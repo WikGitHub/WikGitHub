@@ -21,4 +21,4 @@
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/wiktoriakasprzak/)
 
-I'm always looking for opportunities to collaborate, so if you have a project in mind, feel free to get in touch. Thank you for stopping by!
+I'm always looking for opportunities to collaborate, so if you have a project in mind, feel free to get in touch.
