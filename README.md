@@ -5,11 +5,7 @@
 ## Welcome to my GitHub profile!
 
 ## About me
-* Data Scientist employed at a geospatial intelligence startup.
-* Currently working on a variety of side projects:
-  * Vessel detection on satellite imagery
-  * UniCodBas with [@nv333](https://github.com/nv333)
-  * Machine Learning on a Raspberry Pi (You can find my articles on Medium)
+* Experienced Data Scientist skilled in working across intelligence, defense, and public sector domains, with a background in biochemistry. 
 * Hold a Master of Science degree in Computer Science from the University of Bath, with distinction. My specialisation during my Master's project was Computer Vision.
 * Organised GitHub profile with repositories arranged under "stars" and "lists" for easy navigation and project exploration.
 
